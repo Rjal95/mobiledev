@@ -1,4 +1,4 @@
-…or create a new repository on the command line
+create a new repository on the command line
 
 echo "# mobiledev" >> README.md
 git init
