@@ -1,0 +1,34 @@
+Part 3
+
+Github is  a website and service where developers store their projects and network with like minded people
+
+Github was created in 2007
+
+Github was created to hosts your source code projects in a variety of different programming languages and keeps track of the various changes made to every iteration.
+
+it was created by Chris Wanstrath, PJ Hyett and Tom Preston-Werner
+
+similar platforms like github: GitLab TeamForge Apache Allura Bitbucket
+
+Iuse GitHub Because GitHub is a repository, it allows your work to get out in front of the public. Moreover, it is one of the largest coding communities around, so using it can provide wide exposure for your project and for you. The more people you have to review your project, the more attention and use it is likely to attract.
+
+Part 4
+
+A repository is like a folder for your project. Your project's repository contains all of your project's files and stores each file's revision history.
+
+Commits tracked changes and prepares them to be pushed to a remote repository.
+
+Pushing is how you transfer commits from your local repository to a remote repository
+
+A branch in Git is simply a lightweight movable pointer to one of these commits
+
+A fork is a copy of a repository. Forking a repository allows you to freely experiment with changes without affecting the original project.
+
+You can configure pull request merge options on GitHub to meet your workflow needs and preferences for managing Git history.
+
+The "clone" command downloads an existing Git repository to your local
+
+git pull runs git fetch with the given parameters and calls git merge to merge the retrieved branch heads into the current branch.
+
+Pull requests let you tell others about changes you've pushed to a branch in a repository on GitHub. Once a pull request is opened, you can discuss and review the potential changes with collaborators and add follow-up commits before your changes are merged into the base branch.
+
